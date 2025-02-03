@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "function-calling"
+version = "0.1.0"
+description = ""
+authors = ["anouar taizoukt <ataizoukt@leyton.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+streamlit = "^1.41.1"
+openai = "^1.61.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
