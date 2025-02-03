@@ -40,7 +40,7 @@ def handle_user_input(user_input):
     client = OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=os.getenv(
-            "OPENAI_API_KEY"        ),
+            "OPENAI_API_KEY", "provide an API key" ),
     )
 
     max_iterations = 5
