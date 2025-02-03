@@ -4,7 +4,7 @@ from openai import OpenAI
 from tools import FUNC_TOOLS
 from utils import fetch_results
 import os
-from config import MARKET_DATA
+# from config import MARKET_DATA
 
 TOOLS = FUNC_TOOLS
 
@@ -40,7 +40,9 @@ def handle_user_input(user_input):
     client = OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=os.getenv(
-            "OPENAI_API_KEY", "provide an API key" ),
+            "OPENAI_API_KEY",
+            "provide an API KEY",
+        ),
     )
 
     max_iterations = 5
@@ -104,14 +106,14 @@ def handle_user_input(user_input):
                     if tool_name == "get_market_data":
                         # Wait for user to select market data to display
                         if (
-                            "selected_data" not in st.session_state
+                            "tokens" not in st.session_state
                             or not st.session_state["continue"]
                         ):
-                            st.session_state["selected_data"] = st.multiselect(
-                                "Select market data to display:",
-                                options=MARKET_DATA,  # The same logic will be used for the token names
-                                #
-                            )
+                            # st.session_state["selected_data"] = st.multiselect(
+                            #     "Select market data to display:",
+                            #     options=MARKET_DATA,  # The same logic will be used for the token names
+                            #     #
+                            # )
                             st.session_state["tokens"] = st.multiselect(
                                 "Select tokens to display:",
                                 options=[item["name"] for item in tool_result],
@@ -131,12 +133,12 @@ def handle_user_input(user_input):
                         )
                     # Add the tool's result so the LLM can see it on the next iteration
                     if "selected_data" in st.session_state:
-                        selected_data = st.session_state["selected_data"]
+                        # selected_data = st.session_state["selected_data"]
                         selected_tokens = st.session_state["tokens"]
                         conversation.append(
                             {
                                 "role": "assistant",
-                                "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)} strictly mention this information: {selected_data} only about the  tokens named: {selected_tokens}",
+                                "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)} only about the  tokens named: {selected_tokens}",
                             }
                         )
                     else:
@@ -161,8 +163,8 @@ def handle_user_input(user_input):
                 # Clear the reasoning placeholder
                 reasoning_placeholder.empty()
                 # empty selected_data from session state
-                if "selected_data" in st.session_state:
-                    del st.session_state["selected_data"]
+                if "tokens" in st.session_state:
+                    # del st.session_state["selected_data"]
                     del st.session_state["tokens"]
 
                 return final_text
