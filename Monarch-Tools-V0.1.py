@@ -42,7 +42,7 @@ def handle_user_input(user_input):
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=os.getenv(
             "OPENAI_API_KEY",
-            "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"
+            ""
         ),
     )
 
