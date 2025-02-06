@@ -4,6 +4,7 @@ from openai import OpenAI
 from tools import FUNC_TOOLS
 from utils import fetch_results
 import os
+# from config import CATEGORY_DATA
 # from config import MARKET_DATA
 
 TOOLS = FUNC_TOOLS
@@ -41,7 +42,7 @@ def handle_user_input(user_input):
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=os.getenv(
             "OPENAI_API_KEY",
-            "provide an API KEY",
+            "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"
         ),
     )
 
@@ -127,6 +128,26 @@ def handle_user_input(user_input):
                                 ),
                             )
                             return "Waiting for user input..."
+                        
+                    # elif tool_name == "get_category_market_data":
+                    #     # Wait for user to select market data to display
+                    #     if (
+                    #         "category_data" not in st.session_state
+                    #         or not st.session_state["continue"]
+                    #     ):
+                    #         st.session_state["category_data"] = st.multiselect(
+                    #             "Select market data to display:",
+                    #             options=CATEGORY_DATA,  # The same logic will be used for the token names
+                    #             #
+                    #         )
+                    #         st.session_state["continue"] = False
+                    #         st.button(
+                    #             "Continue",
+                    #             on_click=lambda: st.session_state.update(
+                    #                 {"continue": True}
+                    #             ),
+                    #         )
+                    #         return "Waiting for user input..."
                     else:
                         st.session_state["continue"] = (
                             False  # Reset for next possible input
@@ -141,6 +162,14 @@ def handle_user_input(user_input):
                                 "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)} only about the  tokens named: {selected_tokens}",
                             }
                         )
+                    # elif "category_data" in st.session_state:
+                    #     cat_data = st.session_state["category_data"]
+                    #     conversation.append(
+                    #         {
+                    #             "role": "assistant",
+                    #             "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)}, only mention information about the following data: {cat_data}",
+                    #         }                            
+                    #     )
                     else:
                         conversation.append(
                             {
