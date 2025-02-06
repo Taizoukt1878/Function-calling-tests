@@ -3,7 +3,6 @@ import json
 from openai import OpenAI
 from tools import FUNC_TOOLS
 from utils import fetch_results
-import os
 # from config import CATEGORY_DATA
 # from config import MARKET_DATA
 
@@ -40,10 +39,7 @@ def handle_user_input(user_input):
     # Create and configure your LLM client
     client = OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
-        api_key=os.getenv(
-            "OPENAI_API_KEY",
-            ""
-        ),
+        api_key= str(st.secrets["OPENAI_KEY"])
     )
 
     max_iterations = 5
@@ -159,7 +155,7 @@ def handle_user_input(user_input):
                         conversation.append(
                             {
                                 "role": "assistant",
-                                "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)} only about the  tokens named: {selected_tokens}",
+                                "content": f"Tool '{tool_name}' returned: {json.dumps(tool_result)} only about the tokens named: {selected_tokens}",
                             }
                         )
                     # elif "category_data" in st.session_state:
