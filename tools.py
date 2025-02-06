@@ -103,5 +103,44 @@ FUNC_TOOLS = [
                 "required": ["token"]
             }
         }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_top_gainers",
+            "description": "returns the current top gainers in the market  prioritze it without a parameter unless if the user asks for it",
+            "parameters": {
+                "type": "object",
+                "properties": {}
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_top_losers",
+            "description": "Returns the current top losers in the market  prioritze it without a parameter unless if the user asks for it",
+            "parameters": {
+                "type": "object",
+                "properties": {}
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_category_market_data",
+            "description": "Fetch market data about a given for a mentioned category",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "category": {
+                        "type": "string",
+                        "description": "The category to fetch data for (e.g., AI Agents, Asset Manager, etc.)."
+                    }
+                },
+                "required": ["category"]
+            }
+        }
     }
 ]
