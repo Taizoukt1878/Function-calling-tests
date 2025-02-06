@@ -31,3 +31,10 @@ MARKET_DATA = [
     "liquidity",  # The total liquidity available in the token's market.
     "market_cap"  # The total market capitalization of the token.
 ]
+
+
+CATEGORY_DATA = [
+    "avg_price_change_24h",
+    "total_market_cap",
+    "total_volume"
+]
