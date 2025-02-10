@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "tokens": [
+        {
+            "buy_count": 58,
+            "change_24h": -0.15312422121026958,
+            "img_url": "https://crypto-token-logos-production.s3.us-west-2.amazonaws.com/1_0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6_1737037007_small.png",
+            "liquidity": "606624",
+            "market_cap": "28861930",
+            "price": "2.88619303018",
+            "sell_count": 52,
+            "token": {
+                "address": "0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6",
+                "imageSmallUrl": "https://crypto-token-logos-production.s3.us-west-2.amazonaws.com/1_0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6_1737037007_small.png",
+                "name": "SPECTRE AI",
+                "symbol": "SPECTRE"
+            },
+            "txn_count": 110,
+            "volume": "205797"
+        }
+    ]
+}
