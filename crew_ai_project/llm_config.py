@@ -10,7 +10,7 @@ load_dotenv()
 
 
 # Load API key from .env file
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_KEY"]
+os.environ["OPENAI_API_KEY"] = str(st.secrets["OPENAI_KEY"])
 # load_dotenv(dotenv_path=".env")
 llm = LLM(model="nvidia_nim/meta/llama-3.1-70b-instruct", base_url="https://integrate.api.nvidia.com/v1", temperature=0)
 
