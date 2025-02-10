@@ -6,6 +6,7 @@ from tools import (
     GetTopGainersTool, GetTopLosersTool, InputTool
 )
 
+
 # Initialize tools
 market_data_tool = MarketDataTool()
 official_tweets_tool = OfficialTweetsTool()
