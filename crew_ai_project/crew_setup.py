@@ -1,7 +1,7 @@
 from crewai import Crew, Process
 from tasks import task_ui, task_dm, task_rga
 from agents import user_interaction_agent, decision_agent, response_generator_agent
-from open_ai_client import llm
+from llm_config import llm
 
 # Create a Crew instance to orchestrate agents and tasks
 crew = Crew(
