@@ -1,5 +1,5 @@
 from crewai import Agent
-from open_ai_client import llm
+from llm_config import llm
 from tools import (
     MarketDataTool, OfficialTweetsTool, GetNewsTool, getTrendingTokensTool,
     GetCategoryMarketDataTool, GetSentimentAnalysisTool,

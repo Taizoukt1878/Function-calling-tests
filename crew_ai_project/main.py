@@ -1,11 +1,7 @@
-from dotenv import load_dotenv
 from crew_setup import crew
 from logger import setup_logger
 
 logger = setup_logger()
-
-# Load API key from .env file
-load_dotenv()
 
 # Run the Crew AI System
 if __name__ == "__main__":
