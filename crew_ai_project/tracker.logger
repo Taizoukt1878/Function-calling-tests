@@ -1,0 +1,634 @@
+2025-02-08 02:34:28,916 INFO OpenAI client initialized successfully.
+2025-02-08 02:34:28,916 INFO OpenAI client initialized successfully.
+2025-02-08 02:37:33,788 INFO OpenAI client initialized successfully.
+2025-02-08 02:37:33,788 INFO OpenAI client initialized successfully.
+2025-02-08 02:46:01,192 INFO OpenAI client initialized successfully.
+2025-02-08 02:46:01,192 INFO OpenAI client initialized successfully.
+2025-02-08 02:48:38,620 INFO OpenAI client initialized successfully.
+2025-02-08 02:48:38,620 INFO OpenAI client initialized successfully.
+2025-02-08 02:49:17,466 INFO OpenAI client initialized successfully.
+2025-02-08 02:49:17,466 INFO OpenAI client initialized successfully.
+2025-02-08 02:49:17,472 INFO Starting Crew AI system with function calling...
+2025-02-08 02:49:17,472 INFO Starting Crew AI system with function calling...
+2025-02-08 02:49:17,472 INFO Starting Crew AI system with function calling...
+2025-02-08 02:49:51,931 INFO Fetching current time
+2025-02-08 02:49:51,931 INFO Fetching current time
+2025-02-08 02:49:51,931 INFO Fetching current time
+2025-02-08 02:51:15,621 INFO Shutting down system.
+2025-02-08 02:51:15,621 INFO Shutting down system.
+2025-02-08 02:51:15,621 INFO Shutting down system.
+2025-02-08 03:24:23,389 INFO OpenAI client initialized successfully.
+2025-02-08 03:24:23,389 INFO OpenAI client initialized successfully.
+2025-02-08 03:24:23,395 INFO Starting Crew AI system with function calling...
+2025-02-08 03:24:23,395 INFO Starting Crew AI system with function calling...
+2025-02-08 03:24:23,395 INFO Starting Crew AI system with function calling...
+2025-02-08 03:27:47,994 INFO Shutting down system.
+2025-02-08 03:27:47,994 INFO Shutting down system.
+2025-02-08 03:27:47,994 INFO Shutting down system.
+2025-02-08 03:28:50,835 INFO OpenAI client initialized successfully.
+2025-02-08 03:28:50,835 INFO OpenAI client initialized successfully.
+2025-02-08 03:28:50,841 INFO Starting Crew AI system with function calling...
+2025-02-08 03:28:50,841 INFO Starting Crew AI system with function calling...
+2025-02-08 03:28:50,841 INFO Starting Crew AI system with function calling...
+2025-02-08 03:32:09,917 INFO Shutting down system.
+2025-02-08 03:32:09,917 INFO Shutting down system.
+2025-02-08 03:32:09,917 INFO Shutting down system.
+2025-02-08 03:40:20,594 INFO OpenAI client initialized successfully.
+2025-02-08 03:40:20,594 INFO OpenAI client initialized successfully.
+2025-02-08 03:40:20,601 INFO Starting Crew AI system with function calling...
+2025-02-08 03:40:20,601 INFO Starting Crew AI system with function calling...
+2025-02-08 03:40:20,601 INFO Starting Crew AI system with function calling...
+2025-02-08 03:40:30,010 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 03:40:30,010 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 03:40:30,010 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 03:41:31,591 INFO Prompting user with: Could you please provide more context or clarify what you mean by 'what is the time?'? Are you asking for the current time, time zone, or something else?
+2025-02-08 03:41:31,591 INFO Prompting user with: Could you please provide more context or clarify what you mean by 'what is the time?'? Are you asking for the current time, time zone, or something else?
+2025-02-08 03:41:31,591 INFO Prompting user with: Could you please provide more context or clarify what you mean by 'what is the time?'? Are you asking for the current time, time zone, or something else?
+2025-02-08 03:41:54,668 INFO Prompting user with: Just to confirm, you would like to know the current time in your time zone, correct? Also, I noticed a typo in your previous response, you meant to type 'time zone', right?
+2025-02-08 03:41:54,668 INFO Prompting user with: Just to confirm, you would like to know the current time in your time zone, correct? Also, I noticed a typo in your previous response, you meant to type 'time zone', right?
+2025-02-08 03:41:54,668 INFO Prompting user with: Just to confirm, you would like to know the current time in your time zone, correct? Also, I noticed a typo in your previous response, you meant to type 'time zone', right?
+2025-02-08 03:42:11,006 INFO Fetching current time
+2025-02-08 03:42:11,006 INFO Fetching current time
+2025-02-08 03:42:11,006 INFO Fetching current time
+2025-02-08 08:17:19,190 INFO Shutting down system.
+2025-02-08 08:17:19,190 INFO Shutting down system.
+2025-02-08 08:17:19,190 INFO Shutting down system.
+2025-02-08 08:18:45,283 INFO OpenAI client initialized successfully.
+2025-02-08 08:18:45,283 INFO OpenAI client initialized successfully.
+2025-02-08 08:18:45,291 INFO Starting Crew AI system with function calling...
+2025-02-08 08:18:45,291 INFO Starting Crew AI system with function calling...
+2025-02-08 08:18:45,291 INFO Starting Crew AI system with function calling...
+2025-02-08 08:19:05,743 INFO Prompting user with: Please enter your request
+2025-02-08 08:19:05,743 INFO Prompting user with: Please enter your request
+2025-02-08 08:19:05,743 INFO Prompting user with: Please enter your request
+2025-02-08 08:19:06,543 INFO Prompting user with: 
+2025-02-08 08:19:06,543 INFO Prompting user with: 
+2025-02-08 08:19:06,543 INFO Prompting user with: 
+2025-02-08 08:19:13,051 INFO Prompting user with: Can you please rephrase your original request?
+2025-02-08 08:19:13,051 INFO Prompting user with: Can you please rephrase your original request?
+2025-02-08 08:19:13,051 INFO Prompting user with: Can you please rephrase your original request?
+2025-02-08 08:19:29,332 INFO Fetching current time
+2025-02-08 08:19:29,332 INFO Fetching current time
+2025-02-08 08:19:29,332 INFO Fetching current time
+2025-02-08 08:19:31,100 INFO Fetching weather for default
+2025-02-08 08:19:31,100 INFO Fetching weather for default
+2025-02-08 08:19:31,100 INFO Fetching weather for default
+2025-02-08 08:24:24,667 INFO Shutting down system.
+2025-02-08 08:24:24,667 INFO Shutting down system.
+2025-02-08 08:24:24,667 INFO Shutting down system.
+2025-02-08 08:24:32,894 INFO OpenAI client initialized successfully.
+2025-02-08 08:24:32,894 INFO OpenAI client initialized successfully.
+2025-02-08 08:24:32,901 INFO Starting Crew AI system with function calling...
+2025-02-08 08:24:32,901 INFO Starting Crew AI system with function calling...
+2025-02-08 08:24:32,901 INFO Starting Crew AI system with function calling...
+2025-02-08 08:24:57,547 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 08:24:57,547 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 08:24:57,547 INFO Prompting user with: Please provide a clear explanation of your request, including any relevant details or context.
+2025-02-08 08:25:24,764 INFO Prompting user with: Could you please provide more context about your question, such as the date or time frame you are interested in knowing the weather for, or if you are looking for a specific type of weather information (e.g. temperature, precipitation, etc.)?
+2025-02-08 08:25:24,764 INFO Prompting user with: Could you please provide more context about your question, such as the date or time frame you are interested in knowing the weather for, or if you are looking for a specific type of weather information (e.g. temperature, precipitation, etc.)?
+2025-02-08 08:25:24,764 INFO Prompting user with: Could you please provide more context about your question, such as the date or time frame you are interested in knowing the weather for, or if you are looking for a specific type of weather information (e.g. temperature, precipitation, etc.)?
+2025-02-08 08:26:02,854 INFO Fetching weather for Casablanca
+2025-02-08 08:26:02,854 INFO Fetching weather for Casablanca
+2025-02-08 08:26:02,854 INFO Fetching weather for Casablanca
+2025-02-08 08:30:23,873 INFO Prompting user with: Please describe your request in as much detail as possible.
+2025-02-08 08:30:23,873 INFO Prompting user with: Please describe your request in as much detail as possible.
+2025-02-08 08:30:23,873 INFO Prompting user with: Please describe your request in as much detail as possible.
+2025-02-08 08:30:46,606 INFO Prompting user with: Can you explain the reason behind your request?
+2025-02-08 08:30:46,606 INFO Prompting user with: Can you explain the reason behind your request?
+2025-02-08 08:30:46,606 INFO Prompting user with: Can you explain the reason behind your request?
+2025-02-08 08:34:00,883 INFO OpenAI client initialized successfully.
+2025-02-08 08:34:00,883 INFO OpenAI client initialized successfully.
+2025-02-08 08:34:00,890 INFO Starting Crew AI system with function calling...
+2025-02-08 08:34:00,890 INFO Starting Crew AI system with function calling...
+2025-02-08 08:34:00,890 INFO Starting Crew AI system with function calling...
+2025-02-08 08:34:18,400 INFO Prompting user with: Please provide a clear explanation of your request.
+2025-02-08 08:34:18,400 INFO Prompting user with: Please provide a clear explanation of your request.
+2025-02-08 08:34:18,400 INFO Prompting user with: Please provide a clear explanation of your request.
+2025-02-08 08:40:20,743 INFO Prompting user with: What is the actual complete content of your request?
+2025-02-08 08:40:20,743 INFO Prompting user with: What is the actual complete content of your request?
+2025-02-08 08:40:20,743 INFO Prompting user with: What is the actual complete content of your request?
+2025-02-08 08:41:16,444 INFO OpenAI client initialized successfully.
+2025-02-08 08:41:16,444 INFO OpenAI client initialized successfully.
+2025-02-08 08:41:16,451 INFO Starting Crew AI system with function calling...
+2025-02-08 08:41:16,451 INFO Starting Crew AI system with function calling...
+2025-02-08 08:41:16,451 INFO Starting Crew AI system with function calling...
+2025-02-08 08:41:27,467 INFO Prompting user with: What is the weather in Casa?
+2025-02-08 08:41:27,467 INFO Prompting user with: What is the weather in Casa?
+2025-02-08 08:41:27,467 INFO Prompting user with: What is the weather in Casa?
+2025-02-08 08:41:31,290 INFO Fetching weather for Casa
+2025-02-08 08:41:31,290 INFO Fetching weather for Casa
+2025-02-08 08:41:31,290 INFO Fetching weather for Casa
+2025-02-08 08:43:01,943 INFO Shutting down system.
+2025-02-08 08:43:01,943 INFO Shutting down system.
+2025-02-08 08:43:01,943 INFO Shutting down system.
+2025-02-08 09:12:44,854 INFO OpenAI client initialized successfully.
+2025-02-08 09:12:44,854 INFO OpenAI client initialized successfully.
+2025-02-08 09:12:44,861 INFO Starting Crew AI system with function calling...
+2025-02-08 09:12:44,861 INFO Starting Crew AI system with function calling...
+2025-02-08 09:12:44,861 INFO Starting Crew AI system with function calling...
+2025-02-08 09:13:00,455 INFO Prompting user with: Please enter your request
+2025-02-08 09:13:00,455 INFO Prompting user with: Please enter your request
+2025-02-08 09:13:00,455 INFO Prompting user with: Please enter your request
+2025-02-08 09:13:13,331 INFO Fetching market data for {token}
+2025-02-08 09:13:13,331 INFO Fetching market data for {token}
+2025-02-08 09:13:13,331 INFO Fetching market data for {token}
+2025-02-08 09:13:15,883 INFO Fetching official tweets for request_clarification_account
+2025-02-08 09:13:15,883 INFO Fetching official tweets for request_clarification_account
+2025-02-08 09:13:15,883 INFO Fetching official tweets for request_clarification_account
+2025-02-08 09:13:29,717 INFO Fetching official tweets for official_request_clarification_account
+2025-02-08 09:13:29,717 INFO Fetching official tweets for official_request_clarification_account
+2025-02-08 09:13:29,717 INFO Fetching official tweets for official_request_clarification_account
+2025-02-08 09:13:32,974 INFO Fetching official tweets for support_account
+2025-02-08 09:13:32,974 INFO Fetching official tweets for support_account
+2025-02-08 09:13:32,974 INFO Fetching official tweets for support_account
+2025-02-08 09:13:37,296 INFO Fetching market data for {token}
+2025-02-08 09:13:37,296 INFO Fetching market data for {token}
+2025-02-08 09:13:37,296 INFO Fetching market data for {token}
+2025-02-08 09:13:46,816 INFO Fetching official tweets for elonmusk
+2025-02-08 09:13:46,816 INFO Fetching official tweets for elonmusk
+2025-02-08 09:13:46,816 INFO Fetching official tweets for elonmusk
+2025-02-08 09:13:50,540 INFO Fetching market data for {token}
+2025-02-08 09:13:50,540 INFO Fetching market data for {token}
+2025-02-08 09:13:50,540 INFO Fetching market data for {token}
+2025-02-08 09:14:09,955 INFO OpenAI client initialized successfully.
+2025-02-08 09:14:09,955 INFO OpenAI client initialized successfully.
+2025-02-08 09:14:09,962 INFO Starting Crew AI system with function calling...
+2025-02-08 09:14:09,962 INFO Starting Crew AI system with function calling...
+2025-02-08 09:14:09,962 INFO Starting Crew AI system with function calling...
+2025-02-08 09:14:36,613 INFO Prompting user with: Please provide the user's request.
+2025-02-08 09:14:36,613 INFO Prompting user with: Please provide the user's request.
+2025-02-08 09:14:36,613 INFO Prompting user with: Please provide the user's request.
+2025-02-08 09:14:41,396 INFO Fetching official tweets for elonmusk
+2025-02-08 09:14:41,396 INFO Fetching official tweets for elonmusk
+2025-02-08 09:14:41,396 INFO Fetching official tweets for elonmusk
+2025-02-08 09:14:47,438 INFO Fetching official tweets for elonmuskClown
+2025-02-08 09:14:47,438 INFO Fetching official tweets for elonmuskClown
+2025-02-08 09:14:47,438 INFO Fetching official tweets for elonmuskClown
+2025-02-08 09:14:53,491 INFO Fetching official tweets for kcurtsme
+2025-02-08 09:14:53,491 INFO Fetching official tweets for kcurtsme
+2025-02-08 09:14:53,491 INFO Fetching official tweets for kcurtsme
+2025-02-08 09:15:00,732 INFO Fetching official tweets for rnuksmle
+2025-02-08 09:15:00,732 INFO Fetching official tweets for rnuksmle
+2025-02-08 09:15:00,732 INFO Fetching official tweets for rnuksmle
+2025-02-08 09:15:03,102 INFO Fetching official tweets for lonmus
+2025-02-08 09:15:03,102 INFO Fetching official tweets for lonmus
+2025-02-08 09:15:03,102 INFO Fetching official tweets for lonmus
+2025-02-08 09:15:07,014 INFO Fetching official tweets for m
+2025-02-08 09:15:07,014 INFO Fetching official tweets for m
+2025-02-08 09:15:07,014 INFO Fetching official tweets for m
+2025-02-08 09:15:21,128 INFO Fetching market data for {token}
+2025-02-08 09:15:21,128 INFO Fetching market data for {token}
+2025-02-08 09:15:21,128 INFO Fetching market data for {token}
+2025-02-08 09:15:24,622 INFO Fetching official tweets for elonmuskofficial
+2025-02-08 09:15:24,622 INFO Fetching official tweets for elonmuskofficial
+2025-02-08 09:15:24,622 INFO Fetching official tweets for elonmuskofficial
+2025-02-08 09:15:27,079 INFO Fetching official tweets for elonmuskofficials
+2025-02-08 09:15:27,079 INFO Fetching official tweets for elonmuskofficials
+2025-02-08 09:15:27,079 INFO Fetching official tweets for elonmuskofficials
+2025-02-08 09:15:30,934 INFO Fetching official tweets for elonmusks
+2025-02-08 09:15:30,934 INFO Fetching official tweets for elonmusks
+2025-02-08 09:15:30,934 INFO Fetching official tweets for elonmusks
+2025-02-08 09:15:33,106 INFO Fetching market data for {token}
+2025-02-08 09:15:33,106 INFO Fetching market data for {token}
+2025-02-08 09:15:33,106 INFO Fetching market data for {token}
+2025-02-08 09:15:39,265 INFO Fetching official tweets for elonx
+2025-02-08 09:15:39,265 INFO Fetching official tweets for elonx
+2025-02-08 09:15:39,265 INFO Fetching official tweets for elonx
+2025-02-08 09:15:43,127 INFO Fetching official tweets for musk
+2025-02-08 09:15:43,127 INFO Fetching official tweets for musk
+2025-02-08 09:15:43,127 INFO Fetching official tweets for musk
+2025-02-08 09:15:58,566 INFO OpenAI client initialized successfully.
+2025-02-08 09:15:58,566 INFO OpenAI client initialized successfully.
+2025-02-08 09:15:58,574 INFO Starting Crew AI system with function calling...
+2025-02-08 09:15:58,574 INFO Starting Crew AI system with function calling...
+2025-02-08 09:15:58,574 INFO Starting Crew AI system with function calling...
+2025-02-08 09:16:24,869 INFO Prompting user with: Please provide more details about the request, what is the context and what do you want to know about Elon Musk's tweets?
+2025-02-08 09:16:24,869 INFO Prompting user with: Please provide more details about the request, what is the context and what do you want to know about Elon Musk's tweets?
+2025-02-08 09:16:24,869 INFO Prompting user with: Please provide more details about the request, what is the context and what do you want to know about Elon Musk's tweets?
+2025-02-08 09:16:29,220 INFO Fetching official tweets for elonmusk
+2025-02-08 09:16:29,220 INFO Fetching official tweets for elonmusk
+2025-02-08 09:16:29,220 INFO Fetching official tweets for elonmusk
+2025-02-08 09:16:45,811 INFO Fetching official tweets for elonmuskk
+2025-02-08 09:16:45,811 INFO Fetching official tweets for elonmuskk
+2025-02-08 09:16:45,811 INFO Fetching official tweets for elonmuskk
+2025-02-08 09:16:47,655 INFO Fetching market data for {token}
+2025-02-08 09:16:47,655 INFO Fetching market data for {token}
+2025-02-08 09:16:47,655 INFO Fetching market data for {token}
+2025-02-08 09:19:35,712 INFO OpenAI client initialized successfully.
+2025-02-08 09:19:35,712 INFO OpenAI client initialized successfully.
+2025-02-08 09:19:35,719 INFO Starting Crew AI system with function calling...
+2025-02-08 09:19:35,719 INFO Starting Crew AI system with function calling...
+2025-02-08 09:19:35,719 INFO Starting Crew AI system with function calling...
+2025-02-08 09:20:01,452 INFO Prompting user with: Please provide the user's question about Elon Musk's latest tweets.
+2025-02-08 09:20:01,452 INFO Prompting user with: Please provide the user's question about Elon Musk's latest tweets.
+2025-02-08 09:20:01,452 INFO Prompting user with: Please provide the user's question about Elon Musk's latest tweets.
+2025-02-08 09:20:07,535 INFO Fetching official tweets for elonmusk
+2025-02-08 09:20:07,535 INFO Fetching official tweets for elonmusk
+2025-02-08 09:20:07,535 INFO Fetching official tweets for elonmusk
+2025-02-08 09:23:41,470 INFO Prompting user with: Please enter your request
+2025-02-08 09:23:41,470 INFO Prompting user with: Please enter your request
+2025-02-08 09:23:41,470 INFO Prompting user with: Please enter your request
+2025-02-08 10:28:32,177 INFO OpenAI client initialized successfully.
+2025-02-08 10:28:32,177 INFO OpenAI client initialized successfully.
+2025-02-08 10:28:32,185 INFO Starting Crew AI system with function calling...
+2025-02-08 10:28:32,185 INFO Starting Crew AI system with function calling...
+2025-02-08 10:28:32,185 INFO Starting Crew AI system with function calling...
+2025-02-08 10:28:54,464 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:28:54,464 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:28:54,464 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:28:58,238 INFO Fetching market data for {token}
+2025-02-08 10:28:58,238 INFO Fetching market data for {token}
+2025-02-08 10:28:58,238 INFO Fetching market data for {token}
+2025-02-08 10:32:17,408 INFO Shutting down system.
+2025-02-08 10:32:17,408 INFO Shutting down system.
+2025-02-08 10:32:17,408 INFO Shutting down system.
+2025-02-08 10:32:25,500 INFO OpenAI client initialized successfully.
+2025-02-08 10:32:25,500 INFO OpenAI client initialized successfully.
+2025-02-08 10:32:25,507 INFO Starting Crew AI system with function calling...
+2025-02-08 10:32:25,507 INFO Starting Crew AI system with function calling...
+2025-02-08 10:32:25,507 INFO Starting Crew AI system with function calling...
+2025-02-08 10:32:53,776 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:32:53,776 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:32:53,776 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:32:57,235 INFO Fetching market data for {token}
+2025-02-08 10:32:57,235 INFO Fetching market data for {token}
+2025-02-08 10:32:57,235 INFO Fetching market data for {token}
+2025-02-08 10:34:59,956 INFO OpenAI client initialized successfully.
+2025-02-08 10:34:59,956 INFO OpenAI client initialized successfully.
+2025-02-08 10:34:59,963 INFO Starting Crew AI system with function calling...
+2025-02-08 10:34:59,963 INFO Starting Crew AI system with function calling...
+2025-02-08 10:34:59,963 INFO Starting Crew AI system with function calling...
+2025-02-08 10:35:15,803 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:35:15,803 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:35:15,803 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:35:20,386 INFO Fetching official tweets for Spectre
+2025-02-08 10:35:20,386 INFO Fetching official tweets for Spectre
+2025-02-08 10:35:20,386 INFO Fetching official tweets for Spectre
+2025-02-08 10:35:30,850 INFO Fetching market data for {token}
+2025-02-08 10:35:30,850 INFO Fetching market data for {token}
+2025-02-08 10:35:30,850 INFO Fetching market data for {token}
+2025-02-08 10:35:34,258 INFO Fetching official tweets for Spectre__AI
+2025-02-08 10:35:34,258 INFO Fetching official tweets for Spectre__AI
+2025-02-08 10:35:34,258 INFO Fetching official tweets for Spectre__AI
+2025-02-08 10:36:42,958 INFO OpenAI client initialized successfully.
+2025-02-08 10:36:42,958 INFO OpenAI client initialized successfully.
+2025-02-08 10:36:42,965 INFO Starting Crew AI system with function calling...
+2025-02-08 10:36:42,965 INFO Starting Crew AI system with function calling...
+2025-02-08 10:36:42,965 INFO Starting Crew AI system with function calling...
+2025-02-08 10:36:55,643 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:36:55,643 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:36:55,643 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:36:59,815 INFO Fetching market data for {token}
+2025-02-08 10:36:59,815 INFO Fetching market data for {token}
+2025-02-08 10:36:59,815 INFO Fetching market data for {token}
+2025-02-08 10:42:16,199 INFO Shutting down system.
+2025-02-08 10:42:16,199 INFO Shutting down system.
+2025-02-08 10:42:16,199 INFO Shutting down system.
+2025-02-08 10:42:22,754 INFO OpenAI client initialized successfully.
+2025-02-08 10:42:22,754 INFO OpenAI client initialized successfully.
+2025-02-08 10:42:22,762 INFO Starting Crew AI system with function calling...
+2025-02-08 10:42:22,762 INFO Starting Crew AI system with function calling...
+2025-02-08 10:42:22,762 INFO Starting Crew AI system with function calling...
+2025-02-08 10:42:40,552 INFO Prompting user with: What is the request you would like to make?
+2025-02-08 10:42:40,552 INFO Prompting user with: What is the request you would like to make?
+2025-02-08 10:42:40,552 INFO Prompting user with: What is the request you would like to make?
+2025-02-08 10:42:42,773 INFO Prompting user with: Please provide your request to get the price of the token Spectre or for the Decision Agent to process.
+2025-02-08 10:42:42,773 INFO Prompting user with: Please provide your request to get the price of the token Spectre or for the Decision Agent to process.
+2025-02-08 10:42:42,773 INFO Prompting user with: Please provide your request to get the price of the token Spectre or for the Decision Agent to process.
+2025-02-08 10:42:46,150 INFO Fetching market data for {token}
+2025-02-08 10:42:46,150 INFO Fetching market data for {token}
+2025-02-08 10:42:46,150 INFO Fetching market data for {token}
+2025-02-08 10:42:52,330 INFO Fetching market data for {token}
+2025-02-08 10:42:52,330 INFO Fetching market data for {token}
+2025-02-08 10:42:52,330 INFO Fetching market data for {token}
+2025-02-08 10:49:30,640 INFO Shutting down system.
+2025-02-08 10:49:30,640 INFO Shutting down system.
+2025-02-08 10:49:30,640 INFO Shutting down system.
+2025-02-08 10:49:37,557 INFO OpenAI client initialized successfully.
+2025-02-08 10:49:37,557 INFO OpenAI client initialized successfully.
+2025-02-08 10:49:37,566 INFO Starting Crew AI system with function calling...
+2025-02-08 10:49:37,566 INFO Starting Crew AI system with function calling...
+2025-02-08 10:49:37,566 INFO Starting Crew AI system with function calling...
+2025-02-08 10:49:48,793 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:49:48,793 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:49:48,793 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:49:52,030 INFO Fetching market data for {token}
+2025-02-08 10:49:52,030 INFO Fetching market data for {token}
+2025-02-08 10:49:52,030 INFO Fetching market data for {token}
+2025-02-08 10:51:08,416 INFO Shutting down system.
+2025-02-08 10:51:08,416 INFO Shutting down system.
+2025-02-08 10:51:08,416 INFO Shutting down system.
+2025-02-08 10:51:15,707 INFO OpenAI client initialized successfully.
+2025-02-08 10:51:15,707 INFO OpenAI client initialized successfully.
+2025-02-08 10:51:15,715 INFO Starting Crew AI system with function calling...
+2025-02-08 10:51:15,715 INFO Starting Crew AI system with function calling...
+2025-02-08 10:51:15,715 INFO Starting Crew AI system with function calling...
+2025-02-08 10:51:31,456 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:51:31,456 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:51:31,456 INFO Prompting user with: What is the price of the token Spectre
+2025-02-08 10:51:36,689 INFO Fetching market data for {token}
+2025-02-08 10:51:36,689 INFO Fetching market data for {token}
+2025-02-08 10:51:36,689 INFO Fetching market data for {token}
+2025-02-08 10:55:59,484 INFO OpenAI client initialized successfully.
+2025-02-08 10:55:59,484 INFO OpenAI client initialized successfully.
+2025-02-08 10:55:59,492 INFO Starting Crew AI system with function calling...
+2025-02-08 10:55:59,492 INFO Starting Crew AI system with function calling...
+2025-02-08 10:55:59,492 INFO Starting Crew AI system with function calling...
+2025-02-08 10:56:13,151 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:56:13,151 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:56:13,151 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-08 10:56:16,988 INFO Fetching market data for {token}
+2025-02-08 10:56:16,988 INFO Fetching market data for {token}
+2025-02-08 10:56:16,988 INFO Fetching market data for {token}
+2025-02-08 11:02:19,959 INFO Prompting user with: get the last two tweets from Elonmusk
+2025-02-08 11:02:19,959 INFO Prompting user with: get the last two tweets from Elonmusk
+2025-02-08 11:02:19,959 INFO Prompting user with: get the last two tweets from Elonmusk
+2025-02-08 11:02:23,004 INFO Fetching official tweets for elonmusk
+2025-02-08 11:02:23,004 INFO Fetching official tweets for elonmusk
+2025-02-08 11:02:23,004 INFO Fetching official tweets for elonmusk
+2025-02-08 11:02:38,322 INFO Fetching market data for {token}
+2025-02-08 11:02:38,322 INFO Fetching market data for {token}
+2025-02-08 11:02:38,322 INFO Fetching market data for {token}
+2025-02-08 11:06:01,283 INFO Shutting down system.
+2025-02-08 11:06:01,283 INFO Shutting down system.
+2025-02-08 11:06:01,283 INFO Shutting down system.
+2025-02-08 11:06:14,133 INFO OpenAI client initialized successfully.
+2025-02-08 11:06:14,133 INFO OpenAI client initialized successfully.
+2025-02-08 11:06:14,141 INFO Starting Crew AI system with function calling...
+2025-02-08 11:06:14,141 INFO Starting Crew AI system with function calling...
+2025-02-08 11:06:14,141 INFO Starting Crew AI system with function calling...
+2025-02-08 11:06:46,415 INFO Prompting user with: 
+2025-02-08 11:06:46,415 INFO Prompting user with: 
+2025-02-08 11:06:46,415 INFO Prompting user with: 
+2025-02-08 11:06:49,508 INFO Prompting user with: Please provide the correct input
+2025-02-08 11:06:49,508 INFO Prompting user with: Please provide the correct input
+2025-02-08 11:06:49,508 INFO Prompting user with: Please provide the correct input
+2025-02-08 11:06:53,160 INFO Fetching official tweets for ElonMusk
+2025-02-08 11:06:53,160 INFO Fetching official tweets for ElonMusk
+2025-02-08 11:06:53,160 INFO Fetching official tweets for ElonMusk
+2025-02-08 11:16:25,472 INFO Prompting user with: What is the current price of the Spectre token?
+2025-02-08 11:16:25,472 INFO Prompting user with: What is the current price of the Spectre token?
+2025-02-08 11:16:25,472 INFO Prompting user with: What is the current price of the Spectre token?
+2025-02-08 11:16:28,777 INFO Fetching market data for {token}
+2025-02-08 11:16:28,777 INFO Fetching market data for {token}
+2025-02-08 11:16:28,777 INFO Fetching market data for {token}
+2025-02-09 23:54:11,717 INFO Shutting down system.
+2025-02-09 23:54:11,717 INFO Shutting down system.
+2025-02-09 23:54:11,717 INFO Shutting down system.
+2025-02-09 23:54:18,573 INFO OpenAI client initialized successfully.
+2025-02-09 23:54:56,309 INFO OpenAI client initialized successfully.
+2025-02-09 23:55:41,722 INFO OpenAI client initialized successfully.
+2025-02-09 23:56:08,197 INFO OpenAI client initialized successfully.
+2025-02-09 23:59:20,550 INFO OpenAI client initialized successfully.
+2025-02-09 23:59:20,571 INFO Starting Crew AI system with function calling...
+2025-02-09 23:59:20,571 INFO Starting Crew AI system with function calling...
+2025-02-09 23:59:20,571 INFO Starting Crew AI system with function calling...
+2025-02-10 00:00:44,891 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:00:44,891 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:00:44,891 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:00:46,375 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:00:46,375 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:00:46,375 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:00:48,682 INFO Fetching market data for {token}
+2025-02-10 00:00:48,682 INFO Fetching market data for {token}
+2025-02-10 00:00:48,682 INFO Fetching market data for {token}
+2025-02-10 00:00:50,425 INFO Fetching official tweets for Spectre__AI
+2025-02-10 00:00:50,425 INFO Fetching official tweets for Spectre__AI
+2025-02-10 00:00:50,425 INFO Fetching official tweets for Spectre__AI
+2025-02-10 00:05:51,976 INFO Shutting down system.
+2025-02-10 00:05:51,976 INFO Shutting down system.
+2025-02-10 00:05:51,976 INFO Shutting down system.
+2025-02-10 00:07:29,174 INFO OpenAI client initialized successfully.
+2025-02-10 00:07:29,195 INFO Starting Crew AI system with function calling...
+2025-02-10 00:07:29,195 INFO Starting Crew AI system with function calling...
+2025-02-10 00:07:29,195 INFO Starting Crew AI system with function calling...
+2025-02-10 00:07:55,400 INFO Prompting user with: Could you provide more context or clarify what you mean by 'sprctre'? Is that a specific cryptocurrency or token?
+2025-02-10 00:07:55,400 INFO Prompting user with: Could you provide more context or clarify what you mean by 'sprctre'? Is that a specific cryptocurrency or token?
+2025-02-10 00:07:55,400 INFO Prompting user with: Could you provide more context or clarify what you mean by 'sprctre'? Is that a specific cryptocurrency or token?
+2025-02-10 00:07:58,455 INFO Fetching market data for {token}
+2025-02-10 00:07:58,455 INFO Fetching market data for {token}
+2025-02-10 00:07:58,455 INFO Fetching market data for {token}
+2025-02-10 00:08:02,336 INFO Prompting user with: Is sprctre the correct token name you are looking for?
+2025-02-10 00:08:02,336 INFO Prompting user with: Is sprctre the correct token name you are looking for?
+2025-02-10 00:08:02,336 INFO Prompting user with: Is sprctre the correct token name you are looking for?
+2025-02-10 00:08:07,363 INFO Prompting user with: It seems like the token 'sprctre' was not recognized in my database. Could you be referring to a different token or would you like to double-check the token name?
+2025-02-10 00:08:07,363 INFO Prompting user with: It seems like the token 'sprctre' was not recognized in my database. Could you be referring to a different token or would you like to double-check the token name?
+2025-02-10 00:08:07,363 INFO Prompting user with: It seems like the token 'sprctre' was not recognized in my database. Could you be referring to a different token or would you like to double-check the token name?
+2025-02-10 00:08:52,826 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-10 00:08:52,826 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-10 00:08:52,826 INFO Prompting user with: What is the price of the token Spectre?
+2025-02-10 00:08:56,549 INFO Fetching market data for {token}
+2025-02-10 00:08:56,549 INFO Fetching market data for {token}
+2025-02-10 00:08:56,549 INFO Fetching market data for {token}
+2025-02-10 00:09:26,554 INFO Prompting user with: Please provide your request
+2025-02-10 00:09:26,554 INFO Prompting user with: Please provide your request
+2025-02-10 00:09:26,554 INFO Prompting user with: Please provide your request
+2025-02-10 00:09:28,462 INFO Prompting user with: What is your actual request?
+2025-02-10 00:09:28,462 INFO Prompting user with: What is your actual request?
+2025-02-10 00:09:28,462 INFO Prompting user with: What is your actual request?
+2025-02-10 00:09:29,485 INFO Prompting user with: Please provide a description of your request
+2025-02-10 00:09:29,485 INFO Prompting user with: Please provide a description of your request
+2025-02-10 00:09:29,485 INFO Prompting user with: Please provide a description of your request
+2025-02-10 00:09:31,393 INFO Prompting user with: Can you describe the request you want to make?
+2025-02-10 00:09:31,393 INFO Prompting user with: Can you describe the request you want to make?
+2025-02-10 00:09:31,393 INFO Prompting user with: Can you describe the request you want to make?
+2025-02-10 00:09:32,454 INFO Prompting user with: Please describe your task in detail.
+2025-02-10 00:09:32,454 INFO Prompting user with: Please describe your task in detail.
+2025-02-10 00:09:32,454 INFO Prompting user with: Please describe your task in detail.
+2025-02-10 00:09:33,478 INFO Prompting user with: Please enter your question or request.
+2025-02-10 00:09:33,478 INFO Prompting user with: Please enter your question or request.
+2025-02-10 00:09:33,478 INFO Prompting user with: Please enter your question or request.
+2025-02-10 00:09:36,434 INFO Prompting user with: Please enter your specific question or request.
+2025-02-10 00:09:36,434 INFO Prompting user with: Please enter your specific question or request.
+2025-02-10 00:09:36,434 INFO Prompting user with: Please enter your specific question or request.
+2025-02-10 00:09:37,472 INFO Prompting user with: Please enter your detailed question or request.
+2025-02-10 00:09:37,472 INFO Prompting user with: Please enter your detailed question or request.
+2025-02-10 00:09:37,472 INFO Prompting user with: Please enter your detailed question or request.
+2025-02-10 00:09:38,598 INFO Prompting user with: Please provide your complete and detailed request.
+2025-02-10 00:09:38,598 INFO Prompting user with: Please provide your complete and detailed request.
+2025-02-10 00:09:38,598 INFO Prompting user with: Please provide your complete and detailed request.
+2025-02-10 00:09:39,633 INFO Prompting user with: Please enter your full question or request.
+2025-02-10 00:09:39,633 INFO Prompting user with: Please enter your full question or request.
+2025-02-10 00:09:39,633 INFO Prompting user with: Please enter your full question or request.
+2025-02-10 00:09:40,675 INFO Prompting user with: Please enter your actual and complete request.
+2025-02-10 00:09:40,675 INFO Prompting user with: Please enter your actual and complete request.
+2025-02-10 00:09:40,675 INFO Prompting user with: Please enter your actual and complete request.
+2025-02-10 00:09:41,770 INFO Prompting user with: Please enter your real question or request.
+2025-02-10 00:09:41,770 INFO Prompting user with: Please enter your real question or request.
+2025-02-10 00:09:41,770 INFO Prompting user with: Please enter your real question or request.
+2025-02-10 00:09:42,900 INFO Prompting user with: Please enter your exact question or request.
+2025-02-10 00:09:42,900 INFO Prompting user with: Please enter your exact question or request.
+2025-02-10 00:09:42,900 INFO Prompting user with: Please enter your exact question or request.
+2025-02-10 00:09:44,026 INFO Prompting user with: Please enter your request in detail.
+2025-02-10 00:09:44,026 INFO Prompting user with: Please enter your request in detail.
+2025-02-10 00:09:44,026 INFO Prompting user with: Please enter your request in detail.
+2025-02-10 00:09:45,114 INFO Prompting user with: Please enter your clear and detailed request.
+2025-02-10 00:09:45,114 INFO Prompting user with: Please enter your clear and detailed request.
+2025-02-10 00:09:45,114 INFO Prompting user with: Please enter your clear and detailed request.
+2025-02-10 00:19:46,952 INFO OpenAI client initialized successfully.
+2025-02-10 00:19:46,973 INFO Starting Crew AI system with function calling...
+2025-02-10 00:19:46,973 INFO Starting Crew AI system with function calling...
+2025-02-10 00:19:46,973 INFO Starting Crew AI system with function calling...
+2025-02-10 00:23:56,431 INFO Prompting user with: To get the price of the token TRUMP, do you want to provide more context or details, such as the exchange name or the date?
+2025-02-10 00:23:56,431 INFO Prompting user with: To get the price of the token TRUMP, do you want to provide more context or details, such as the exchange name or the date?
+2025-02-10 00:23:56,431 INFO Prompting user with: To get the price of the token TRUMP, do you want to provide more context or details, such as the exchange name or the date?
+2025-02-10 00:23:57,746 INFO Prompting user with: Please provide more details about the TRUMP token, such as the exchange name, the date, or other relevant information.
+2025-02-10 00:23:57,746 INFO Prompting user with: Please provide more details about the TRUMP token, such as the exchange name, the date, or other relevant information.
+2025-02-10 00:23:57,746 INFO Prompting user with: Please provide more details about the TRUMP token, such as the exchange name, the date, or other relevant information.
+2025-02-10 00:24:02,083 INFO Prompting user with: Please provide the exchange name to get the price of the TRUMP token.
+2025-02-10 00:24:02,083 INFO Prompting user with: Please provide the exchange name to get the price of the TRUMP token.
+2025-02-10 00:24:02,083 INFO Prompting user with: Please provide the exchange name to get the price of the TRUMP token.
+2025-02-10 00:24:03,167 INFO Prompting user with: Please provide the specific date to get the price of the TRUMP token.
+2025-02-10 00:24:03,167 INFO Prompting user with: Please provide the specific date to get the price of the TRUMP token.
+2025-02-10 00:24:03,167 INFO Prompting user with: Please provide the specific date to get the price of the TRUMP token.
+2025-02-10 00:24:07,991 INFO Prompting user with: Could you please provide the exchange name where you would like to know the price of the TRUMP token?
+2025-02-10 00:24:07,991 INFO Prompting user with: Could you please provide the exchange name where you would like to know the price of the TRUMP token?
+2025-02-10 00:24:07,991 INFO Prompting user with: Could you please provide the exchange name where you would like to know the price of the TRUMP token?
+2025-02-10 00:24:09,275 INFO Prompting user with: Could you please provide the specific date (YYYY-MM-DD) for which you would like to know the price of the TRUMP token?
+2025-02-10 00:24:09,275 INFO Prompting user with: Could you please provide the specific date (YYYY-MM-DD) for which you would like to know the price of the TRUMP token?
+2025-02-10 00:24:09,275 INFO Prompting user with: Could you please provide the specific date (YYYY-MM-DD) for which you would like to know the price of the TRUMP token?
+2025-02-10 00:24:14,328 INFO Prompting user with: Could you please provide the exchange name where you want to check the price of the TRUMP token?
+2025-02-10 00:24:14,328 INFO Prompting user with: Could you please provide the exchange name where you want to check the price of the TRUMP token?
+2025-02-10 00:24:14,328 INFO Prompting user with: Could you please provide the exchange name where you want to check the price of the TRUMP token?
+2025-02-10 00:24:15,601 INFO Prompting user with: Could you please provide the specific date (in YYYY-MM-DD format) for which you want to check the price of the TRUMP token?
+2025-02-10 00:24:15,601 INFO Prompting user with: Could you please provide the specific date (in YYYY-MM-DD format) for which you want to check the price of the TRUMP token?
+2025-02-10 00:24:15,601 INFO Prompting user with: Could you please provide the specific date (in YYYY-MM-DD format) for which you want to check the price of the TRUMP token?
+2025-02-10 00:24:17,603 INFO Fetching market data for {token}
+2025-02-10 00:24:17,603 INFO Fetching market data for {token}
+2025-02-10 00:24:17,603 INFO Fetching market data for {token}
+2025-02-10 00:26:15,190 INFO OpenAI client initialized successfully.
+2025-02-10 00:26:15,210 INFO Starting Crew AI system with function calling...
+2025-02-10 00:26:15,210 INFO Starting Crew AI system with function calling...
+2025-02-10 00:26:15,210 INFO Starting Crew AI system with function calling...
+2025-02-10 00:26:35,293 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:26:35,293 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:26:35,293 INFO Prompting user with: Could you please provide more details about the token spectre price you are looking for, such as the platform or exchange?
+2025-02-10 00:26:36,768 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:26:36,768 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:26:36,768 INFO Prompting user with: The user is looking for the price of the token spectre on a specific exchange or platform but didn't specify which one. Could you please provide the name of the exchange or platform?
+2025-02-10 00:26:41,475 INFO Prompting user with: Could you please specify which platform or exchange you are looking for the price of the token Spectre on?
+2025-02-10 00:26:41,475 INFO Prompting user with: Could you please specify which platform or exchange you are looking for the price of the token Spectre on?
+2025-02-10 00:26:41,475 INFO Prompting user with: Could you please specify which platform or exchange you are looking for the price of the token Spectre on?
+2025-02-10 00:26:45,077 INFO Fetching market data for {token}
+2025-02-10 00:26:45,077 INFO Fetching market data for {token}
+2025-02-10 00:26:45,077 INFO Fetching market data for {token}
+2025-02-10 00:34:21,705 INFO Shutting down system.
+2025-02-10 00:34:21,705 INFO Shutting down system.
+2025-02-10 00:34:21,705 INFO Shutting down system.
+2025-02-10 00:34:27,599 INFO OpenAI client initialized successfully.
+2025-02-10 00:34:27,622 INFO Starting Crew AI system with function calling...
+2025-02-10 00:34:27,622 INFO Starting Crew AI system with function calling...
+2025-02-10 00:34:27,622 INFO Starting Crew AI system with function calling...
+2025-02-10 00:40:00,713 INFO OpenAI client initialized successfully.
+2025-02-10 00:40:00,732 INFO Starting Crew AI system with function calling...
+2025-02-10 00:40:00,732 INFO Starting Crew AI system with function calling...
+2025-02-10 00:40:00,732 INFO Starting Crew AI system with function calling...
+2025-02-10 00:40:28,633 INFO Prompting user with: Please provide the request to determine the price of the token Spectre.
+2025-02-10 00:40:28,633 INFO Prompting user with: Please provide the request to determine the price of the token Spectre.
+2025-02-10 00:40:28,633 INFO Prompting user with: Please provide the request to determine the price of the token Spectre.
+2025-02-10 00:40:29,787 INFO Prompting user with: Can you please provide more details about the token Spectre, such as its symbol or any other relevant information?
+2025-02-10 00:40:29,787 INFO Prompting user with: Can you please provide more details about the token Spectre, such as its symbol or any other relevant information?
+2025-02-10 00:40:29,787 INFO Prompting user with: Can you please provide more details about the token Spectre, such as its symbol or any other relevant information?
+2025-02-10 00:40:30,940 INFO Prompting user with: The user is requesting the current price of the token Spectre. Please provide the symbol of the token Spectre.
+2025-02-10 00:40:30,940 INFO Prompting user with: The user is requesting the current price of the token Spectre. Please provide the symbol of the token Spectre.
+2025-02-10 00:40:30,940 INFO Prompting user with: The user is requesting the current price of the token Spectre. Please provide the symbol of the token Spectre.
+2025-02-10 00:40:32,759 INFO Fetching market data for {token}
+2025-02-10 00:40:32,759 INFO Fetching market data for {token}
+2025-02-10 00:40:32,759 INFO Fetching market data for {token}
+2025-02-10 00:47:04,948 INFO Prompting user with: Please provide your request about buy_count.
+2025-02-10 00:47:04,948 INFO Prompting user with: Please provide your request about buy_count.
+2025-02-10 00:47:04,948 INFO Prompting user with: Please provide your request about buy_count.
+2025-02-10 00:47:06,281 INFO Prompting user with: Can you please provide more context or information about the buy_count you are referring to?
+2025-02-10 00:47:06,281 INFO Prompting user with: Can you please provide more context or information about the buy_count you are referring to?
+2025-02-10 00:47:06,281 INFO Prompting user with: Can you please provide more context or information about the buy_count you are referring to?
+2025-02-10 00:47:07,816 INFO Prompting user with: Can you please provide the name or ID of the specific product you are referring to?
+2025-02-10 00:47:07,816 INFO Prompting user with: Can you please provide the name or ID of the specific product you are referring to?
+2025-02-10 00:47:07,816 INFO Prompting user with: Can you please provide the name or ID of the specific product you are referring to?
+2025-02-10 00:47:12,629 INFO Prompting user with: Can you please explain how your request for the buy_count of product ID 12345 relates to cryptocurrency or market data?
+2025-02-10 00:47:12,629 INFO Prompting user with: Can you please explain how your request for the buy_count of product ID 12345 relates to cryptocurrency or market data?
+2025-02-10 00:47:12,629 INFO Prompting user with: Can you please explain how your request for the buy_count of product ID 12345 relates to cryptocurrency or market data?
+2025-02-10 00:47:13,754 INFO Prompting user with: I'm not sure, I just want to know the buy_count. Is it related to cryptocurrency?
+2025-02-10 00:47:13,754 INFO Prompting user with: I'm not sure, I just want to know the buy_count. Is it related to cryptocurrency?
+2025-02-10 00:47:13,754 INFO Prompting user with: I'm not sure, I just want to know the buy_count. Is it related to cryptocurrency?
+2025-02-10 00:47:15,087 INFO Prompting user with: Unfortunately, the available tools are related to cryptocurrency and market data. Would you like to rephrase your request to fit the available tools?
+2025-02-10 00:47:15,087 INFO Prompting user with: Unfortunately, the available tools are related to cryptocurrency and market data. Would you like to rephrase your request to fit the available tools?
+2025-02-10 00:47:15,087 INFO Prompting user with: Unfortunately, the available tools are related to cryptocurrency and market data. Would you like to rephrase your request to fit the available tools?
+2025-02-10 00:52:30,266 INFO Shutting down system.
+2025-02-10 00:52:30,266 INFO Shutting down system.
+2025-02-10 00:52:30,266 INFO Shutting down system.
+2025-02-10 00:54:13,409 INFO OpenAI client initialized successfully.
+2025-02-10 00:54:13,428 INFO Starting Crew AI system with function calling...
+2025-02-10 00:54:13,428 INFO Starting Crew AI system with function calling...
+2025-02-10 00:54:13,428 INFO Starting Crew AI system with function calling...
+2025-02-10 00:56:09,294 INFO Prompting user with: Please provide more details about the token spectre* you are referring to, such as the platform or exchange it is listed on.
+2025-02-10 00:56:09,294 INFO Prompting user with: Please provide more details about the token spectre* you are referring to, such as the platform or exchange it is listed on.
+2025-02-10 00:56:09,294 INFO Prompting user with: Please provide more details about the token spectre* you are referring to, such as the platform or exchange it is listed on.
+2025-02-10 00:56:10,539 INFO Prompting user with: Could you please provide the full name of the token, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:10,539 INFO Prompting user with: Could you please provide the full name of the token, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:10,539 INFO Prompting user with: Could you please provide the full name of the token, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:15,046 INFO Prompting user with: Can you please provide more details about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant information?
+2025-02-10 00:56:15,046 INFO Prompting user with: Can you please provide more details about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant information?
+2025-02-10 00:56:15,046 INFO Prompting user with: Can you please provide more details about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant information?
+2025-02-10 00:56:19,551 INFO Prompting user with: Could you please provide more information about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:19,551 INFO Prompting user with: Could you please provide more information about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:19,551 INFO Prompting user with: Could you please provide more information about the token spectre*, such as its full name, the platform or exchange it is listed on, and any other relevant details?
+2025-02-10 00:56:21,803 INFO Fetching market data for {token}
+2025-02-10 00:56:21,803 INFO Fetching market data for {token}
+2025-02-10 00:56:21,803 INFO Fetching market data for {token}
+2025-02-10 00:56:37,064 INFO Prompting user with: Please provide your request about the buy count.
+2025-02-10 00:56:37,064 INFO Prompting user with: Please provide your request about the buy count.
+2025-02-10 00:56:37,064 INFO Prompting user with: Please provide your request about the buy count.
+2025-02-10 00:56:39,311 INFO Prompting user with: What is your question about the buy count?
+2025-02-10 00:56:39,311 INFO Prompting user with: What is your question about the buy count?
+2025-02-10 00:56:39,311 INFO Prompting user with: What is your question about the buy count?
+2025-02-10 00:56:40,299 INFO Prompting user with: Please enter your question about the buy count.
+2025-02-10 00:56:40,299 INFO Prompting user with: Please enter your question about the buy count.
+2025-02-10 00:56:40,299 INFO Prompting user with: Please enter your question about the buy count.
+2025-02-10 00:56:42,385 INFO Prompting user with: What can I help you with regarding the buy count?
+2025-02-10 00:56:42,385 INFO Prompting user with: What can I help you with regarding the buy count?
+2025-02-10 00:56:42,385 INFO Prompting user with: What can I help you with regarding the buy count?
+2025-02-10 00:56:43,476 INFO Prompting user with: Please provide more details about your question on the buy count.
+2025-02-10 00:56:43,476 INFO Prompting user with: Please provide more details about your question on the buy count.
+2025-02-10 00:56:43,476 INFO Prompting user with: Please provide more details about your question on the buy count.
+2025-02-10 00:56:44,535 INFO Prompting user with: Can you please provide your question about the buy count?
+2025-02-10 00:56:44,535 INFO Prompting user with: Can you please provide your question about the buy count?
+2025-02-10 00:56:44,535 INFO Prompting user with: Can you please provide your question about the buy count?
+2025-02-10 00:56:46,686 INFO Prompting user with: What is your question regarding the buy count?
+2025-02-10 00:56:46,686 INFO Prompting user with: What is your question regarding the buy count?
+2025-02-10 00:56:46,686 INFO Prompting user with: What is your question regarding the buy count?
+2025-02-10 00:56:47,812 INFO Prompting user with: Please provide your question about the buy count.
+2025-02-10 00:56:47,812 INFO Prompting user with: Please provide your question about the buy count.
+2025-02-10 00:56:47,812 INFO Prompting user with: Please provide your question about the buy count.
+2025-02-10 00:56:48,937 INFO Prompting user with: What question do you have about the buy count?
+2025-02-10 00:56:48,937 INFO Prompting user with: What question do you have about the buy count?
+2025-02-10 00:56:48,937 INFO Prompting user with: What question do you have about the buy count?
+2025-02-10 00:56:50,167 INFO Prompting user with: Can you please enter your question about the buy count?
+2025-02-10 00:56:50,167 INFO Prompting user with: Can you please enter your question about the buy count?
+2025-02-10 00:56:50,167 INFO Prompting user with: Can you please enter your question about the buy count?
+2025-02-10 00:56:53,647 INFO Prompting user with: Can you please provide more details about your question on the buy count?
+2025-02-10 00:56:53,647 INFO Prompting user with: Can you please provide more details about your question on the buy count?
+2025-02-10 00:56:53,647 INFO Prompting user with: Can you please provide more details about your question on the buy count?
+2025-02-10 00:57:02,562 INFO Prompting user with: Could you please provide more details about what you would like to know about the buy count?
+2025-02-10 00:57:02,562 INFO Prompting user with: Could you please provide more details about what you would like to know about the buy count?
+2025-02-10 00:57:02,562 INFO Prompting user with: Could you please provide more details about what you would like to know about the buy count?
+2025-02-10 00:57:03,689 INFO Prompting user with: Are you looking for the total number of buys, the buy count for a specific product, or something else?
+2025-02-10 00:57:03,689 INFO Prompting user with: Are you looking for the total number of buys, the buy count for a specific product, or something else?
+2025-02-10 00:57:03,689 INFO Prompting user with: Are you looking for the total number of buys, the buy count for a specific product, or something else?
+2025-02-10 00:57:07,781 INFO Prompting user with: What is the specific product you are looking for the buy count for?
+2025-02-10 00:57:07,781 INFO Prompting user with: What is the specific product you are looking for the buy count for?
+2025-02-10 00:57:07,781 INFO Prompting user with: What is the specific product you are looking for the buy count for?
+2025-02-10 00:57:11,981 INFO Prompting user with: Please provide the product name for which you would like to know the buy count.
+2025-02-10 00:57:11,981 INFO Prompting user with: Please provide the product name for which you would like to know the buy count.
+2025-02-10 00:57:11,981 INFO Prompting user with: Please provide the product name for which you would like to know the buy count.
+2025-02-10 00:57:25,803 INFO Prompting user with: What is the product name for which you would like to know the buy count?
+2025-02-10 00:57:25,803 INFO Prompting user with: What is the product name for which you would like to know the buy count?
+2025-02-10 00:57:25,803 INFO Prompting user with: What is the product name for which you would like to know the buy count?
+2025-02-10 00:57:26,725 INFO Prompting user with: Please enter the product name
+2025-02-10 00:57:26,725 INFO Prompting user with: Please enter the product name
+2025-02-10 00:57:26,725 INFO Prompting user with: Please enter the product name
+2025-02-10 00:57:33,979 INFO Prompting user with: Could you please provide the name of the product you are looking for so we can look up its buy count?
+2025-02-10 00:57:33,979 INFO Prompting user with: Could you please provide the name of the product you are looking for so we can look up its buy count?
+2025-02-10 00:57:33,979 INFO Prompting user with: Could you please provide the name of the product you are looking for so we can look up its buy count?
+2025-02-10 00:57:38,470 INFO Prompting user with: What is the name of the product you are looking for?
+2025-02-10 00:57:38,470 INFO Prompting user with: What is the name of the product you are looking for?
+2025-02-10 00:57:38,470 INFO Prompting user with: What is the name of the product you are looking for?
