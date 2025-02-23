@@ -40,7 +40,7 @@ class MarketDataTool(BaseTool):
             f"https://search-serv-277369611639.us-central1.run.app/fetch?query={token}"
         )
         response = requests.get(url)
-        return f"Here is the market data for {token}: {response.json()}"
+        return f"Here is the market data for {token}: {response.json() }"
 
 
 class GetNewsTool(BaseTool):
